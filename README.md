@@ -1,5 +1,9 @@
 # ctfd-challenge-dependencies
-Add dependencies to CTFd challenges. Verified working with CTFd version 1.2.0
+Verified working with CTFd version 1.2.0
+
+Add dependencies to CTFd challenges.
+
+When a team loads the challenge page, only challenges with satisfied dependencies will be shown.
 
 
 ![admin panel](imgs/admin-panel.png)
