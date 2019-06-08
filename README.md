@@ -1,3 +1,5 @@
+**This plugin is deprecated.** CTFd as of [version 2.0](https://github.com/CTFd/CTFd/releases/tag/2.0.0) contains the same functionality that this plugin offers.
+
 # ctfd-challenge-dependencies
 Verified working with CTFd version 1.2.0
 
